@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schmalhofer;Daniel;;;
+FN: Daniel  Schmalhofer 
+EMAIL;type=INTERNET;type=pref:hallo@danielschmalhofer.net
+TEL;type=CELL;type=VOICE;type=pref:+43 677 62212402
+URL:danielschmalhofer.net
+KEY;TYPE=PGP:http://example.com/key.pgp
+REV:2018-09-03T12:00:0Z
+END:VCARD
